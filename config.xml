@@ -41,6 +41,7 @@
 	
 	<preference name="phonegap-version" value="cli-6.5.0" />
     <preference name="permissions"                value="none"/>
+	<gap:plugin name="cordova-plugin-email-composer" version="0.8.3" source="npm" />
 
     <!-- Customize your app and platform with the preference element. -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
